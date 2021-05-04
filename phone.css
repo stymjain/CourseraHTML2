@@ -1,11 +1,11 @@
 
 @media screen and (max-width: 1035px){
-/* Navigation */
+    /* Navigation */
     body{
-    background-color: lavender;
+        background-color: lavender;
     }
     #navbar {
-    flex-direction: column;
+        flex-direction: column;
     }
 
     #navbar ul li a{
@@ -78,3 +78,32 @@
         padding: 4px 8px;
     }
 }
+
+
+
+@media screen and (max-width: 575px){
+    #services .box img{ 
+    height: 100px;
+    }
+    #services-container {
+        height: 900px;
+    }
+
+    .client-item {
+    padding: 20px;
+    }
+} 
+
+
+@media screen and (max-width: 430px){
+    #services .box img{ 
+    height: 100px;
+    }
+
+    #services-container{
+        height: 950px;
+    }
+    .client-item {
+        padding: 8px;
+        }
+} 
