@@ -1,4 +1,4 @@
-
+@media screen and (max-width: 1035px){
 /* Navigation */
 body{
     background-color: lavender;
@@ -61,4 +61,5 @@ body{
 .btn{
     font-size: 13px;
     padding: 4px 8px;
+}
 }
