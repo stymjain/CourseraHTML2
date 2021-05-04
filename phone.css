@@ -1,11 +1,11 @@
 
 @media screen and (max-width: 1035px){
-    /* Navigation */
+/* Navigation */
     body{
-        background-color: lavender;
+    background-color: lavender;
     }
     #navbar {
-        flex-direction: column;
+    flex-direction: column;
     }
 
     #navbar ul li a{
